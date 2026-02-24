@@ -1,0 +1,21 @@
+this is a test document to learn how to navigate using nvim as an editor.
+
+here are some brackets {
+
+a, b, c, d, e, f, g, h,...
+
+}
+
+(nvim is fun)
+
+
+G -> end of document
+gg -> first line of document
+H -> top of screen
+L -> bottom of screen
+M -> middle of the screen
+
+sentence 1. senctence 2.
+3.
+and
+4.
